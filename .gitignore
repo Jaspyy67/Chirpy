@@ -1,0 +1,32 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output directories
+/vendor/
+/bin/
+/build/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+/go/pkg/
+
+/goenv/*
+
+# IDE files and settings
+.vscode/
+.idea/
+
+# Environment and secret files
+.env

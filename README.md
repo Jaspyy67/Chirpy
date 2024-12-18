@@ -6,7 +6,7 @@ Chirpy is a web application designed to make social media chirps accessible and 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/chirpy.git
+    git clone https://github.com/Jaspyy67/chirpy.git
     ```
 2. Navigate into the project directory:
     ```bash
